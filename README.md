@@ -1,16 +1,9 @@
-# meteo
+# Meteo
 
-A new Flutter project.
+There is a flutter project consist in making a Meteo application using Flutter FrameWork
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You have to git clone this repository if you want te see the making of.
